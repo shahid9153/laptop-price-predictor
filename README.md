@@ -1,4 +1,5 @@
 # 💻 Laptop Price Predictor
+<img width="1620" height="821" alt="Screenshot 2025-10-25 003100" src="https://github.com/user-attachments/assets/b851485d-e1a3-45d4-899e-68d4df8fc62b" />
 
 ![Laptop](<img width="1620" height="821" alt="Screenshot 2025-10-25 003100" src="https://github.com/user-attachments/assets/6bfbbc7b-7c5f-4fc1-95d6-f574ad308228" />)
 
@@ -39,6 +40,7 @@ Check out the app here:
 ---
 
 ## 📂 Project Structure
+
 
 
 
