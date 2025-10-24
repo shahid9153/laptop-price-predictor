@@ -24,7 +24,7 @@
 ## 🌐 Live Demo
 
 Check out the app here:  
-[**Streamlit App Link**](YOUR_STREAMLIT_APP_URL_HERE)  
+[**Streamlit App Link**](https://laptop-price-predictor-shahid.streamlit.app/)  
 
 ---
 
@@ -39,4 +39,5 @@ Check out the app here:
 ---
 
 ## 📂 Project Structure
+
 
