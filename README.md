@@ -1,6 +1,6 @@
 # 💻 Laptop Price Predictor
 
-![Laptop](https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80)
+![Laptop](<img width="1620" height="821" alt="Screenshot 2025-10-25 003100" src="https://github.com/user-attachments/assets/6bfbbc7b-7c5f-4fc1-95d6-f574ad308228" />)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Yes-orange?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
@@ -39,5 +39,6 @@ Check out the app here:
 ---
 
 ## 📂 Project Structure
+
 
 
