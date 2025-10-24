@@ -1,7 +1,7 @@
 # 💻 Laptop Price Predictor
 <img width="1620" height="821" alt="Screenshot 2025-10-25 003100" src="https://github.com/user-attachments/assets/b851485d-e1a3-45d4-899e-68d4df8fc62b" />
 
-![Laptop](<img width="1620" height="821" alt="Screenshot 2025-10-25 003100" src="https://github.com/user-attachments/assets/6bfbbc7b-7c5f-4fc1-95d6-f574ad308228" />)
+
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Yes-orange?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
@@ -42,7 +42,33 @@ Check out the app here:
 ---
 
 ## 📂 Project Structure
+LaptopPricePredictor/
+│
+├── app.py # Streamlit app code
+├── pipe.pkl # Pre-trained ML pipeline
+├── df.pkl # DataFrame for dropdowns
+├── requirements.txt # Project dependencies
+└── README.md # Documentation
 
+
+---
+
+## 💻 How to Run Locally
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/YOUR_USERNAME/LaptopPricePredictor.git
+cd LaptopPricePredictor
+
+
+☁️ Deployment
+
+Deployed on Streamlit Community Cloud
+
+Free, interactive, and shareable link
+
+Perfect for portfolio demos and presentations
 
 
 
