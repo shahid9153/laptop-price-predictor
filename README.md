@@ -7,6 +7,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Yes-orange?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Yes-red?style=for-the-badge&logo=xgboost)]
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]
+<img width="1540" height="835" alt="Screenshot 2025-10-25 003132" src="https://github.com/user-attachments/assets/3997e4af-c63c-4d78-ab5b-256811ab284f" />
+
 
 **Predict the price of any laptop using AI & ML!**  
 
@@ -40,6 +42,7 @@ Check out the app here:
 ---
 
 ## 📂 Project Structure
+
 
 
 
