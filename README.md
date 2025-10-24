@@ -45,9 +45,13 @@ Check out the app here:
 LaptopPricePredictor/
 │
 ├── app.py # Streamlit app code
+
 ├── pipe.pkl # Pre-trained ML pipeline
+
 ├── df.pkl # DataFrame for dropdowns
+
 ├── requirements.txt # Project dependencies
+
 └── README.md # Documentation
 
 
@@ -69,6 +73,7 @@ Deployed on Streamlit Community Cloud
 Free, interactive, and shareable link
 
 Perfect for portfolio demos and presentations
+
 
 
 
