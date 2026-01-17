@@ -56,6 +56,8 @@ LaptopPricePredictor/
 
 
 ---
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e3e3207c-849b-4c45-8ddd-2e4b33d069d7" />
+
 
 ## 💻 How to Run Locally
 
@@ -73,6 +75,7 @@ Deployed on Streamlit Community Cloud
 Free, interactive, and shareable link
 
 Perfect for portfolio demos and presentations
+
 
 
 
